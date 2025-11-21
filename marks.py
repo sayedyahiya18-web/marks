@@ -8,7 +8,7 @@ else:
     m1 = m2 = m3 =80
 
 total = m1+m2+m3
-if total<40:
+if total<120:
     print("Status : fail")
 else:
     print("Status  :Pass")
