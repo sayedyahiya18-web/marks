@@ -12,3 +12,4 @@ if total<40:
     print("Status : fail")
 else:
     print("Status  :Pass")
+print("Total marks:",total)
